@@ -26,7 +26,7 @@ Loop infinito – Porque a gente nunca faz só uma conta, né? Mas se quiser sai
 🔗 Requisitos
 
 Linux ou WSL no Windows.
-O comando bc instalado.
+O comando bc instalado (caso ainda não tenha, instale com sudo apt install bc). 
 
 
 📜 Licença
